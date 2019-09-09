@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=QRCode -DartifactId=QRCode -Dversion=1.0 -Dpackaging=jar -Dfile=F:\my\study\SpringBoot\spring-boot-level1\src\main\webapp\WEB-INF\lib\QRCode.jar
