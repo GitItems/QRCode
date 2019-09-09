@@ -69,6 +69,15 @@
             <artifactId>junit</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <!--&lt;!&ndash; https://mvnrepository.com/artifact/QRCode/QRCode &ndash;&gt;-->
+        <dependency>
+            <groupId>QRCode</groupId>
+            <artifactId>QRCode</artifactId>
+            <version>1.0</version>
+        </dependency>
+
+
     </dependencies>
 
     <build>
